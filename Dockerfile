@@ -1,3 +1,3 @@
-FROM java:latest
+FROM openjdk:latest
 WORKDIR /app
 COPY . .
